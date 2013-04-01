@@ -1,4 +1,4 @@
 mage-vn
 =======
 
-Translation Magento to Vietnamese locale
+Translate Magento to Vietnamese locale
