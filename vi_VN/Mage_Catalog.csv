@@ -6,6 +6,7 @@
 "(%d)","(%d)"
 "(Copy data from: %s)","(Chép dữ liệu từ: %s)"
 "* Required Fields","* Phải nhập thông tin"
+"Required Fields","Phải nhập thông tin"
 "-- Please Select --","-- Xin mời chọn --"
 "86400 by default, if not set. To refresh instantly, Clear the Blocks HTML Output Cache.","86400 by default, if not set. To refresh instantly, Clear the Blocks HTML Output Cache."
 "<strong style=""color:red"">Warning!</strong> Applying MAP by default will hide all product prices on the frontend.","<strong style=""color:red"">Warning!</strong> Applying MAP by default will hide all product prices on the frontend."
