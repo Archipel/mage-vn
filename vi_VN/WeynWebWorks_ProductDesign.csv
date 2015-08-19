@@ -6,7 +6,7 @@
 "Upload images & files (in a zip archive)","upload hình ảnh & các tập tin (dưới định dạng nép)"
 "Upload images & files","tai hình ảnh và tập tin"
 "Use our online designer","Sử dụng dịch vụ thiết kế của chúng tôi"
-"Uploaded by user","Người sử dụng tai len "
+"Uploaded by user","Người sử dụng tai len " 
 "Design by Arrowprint","Thiết kế bởi Arrowprint"
 "Design using online designer","Thiết kế trực tuyến"
 "The user entered an empty design","Người dùng nhập vào một thiết kế rỗng"
@@ -15,6 +15,6 @@
 "Please enter a valid size.","Nhập kích thước cần in"
 "No file chosen","Chưa chọn tập tin"
 "Gelieve enige uitleg bij uw ontwerp te voegen","Xin vui lòng nhập thông tin cần thiết kế" 
-"Kies alstublieft een geldige afbeelding, de volgende extensies zijn toegelaten: jpg, png, pdf, zip, psd, svg, svgz, xcf, eps & ai","Vui lòng chọn đúng hình ảnh, chọn dạng tập tin
-file: jpg, png, pdf, zip, psd, svg, svgz, xcf, eps & ai"
 "Giao dien:","File đính kèm:"
+"Please select a valid image, the following extensions are allowed: %s","Vui lòng chọn một hình ảnh hợp lệ, để mở rộng sau đây được phép: %s"
+"Please add some explanation for the designer","Xin vui lòng thêm một số giải thích cho các nhà thiết kế"
