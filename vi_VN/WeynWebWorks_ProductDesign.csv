@@ -18,3 +18,4 @@
 "Giao dien:","File đính kèm:"
 "Please select a valid image, the following extensions are allowed: %s","Vui lòng chọn một hình ảnh hợp lệ, để mở rộng sau đây được phép: %s"
 "Please add some explanation for the designer","Xin vui lòng thêm một số giải thích cho các nhà thiết kế"
+"Leave empty to keep %scurrent%s","không chọn "Chọn tệp" để giữ %sfile hiện tại%s"
